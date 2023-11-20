@@ -1,0 +1,25 @@
+{
+  "name": "dynamo_express_crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulGhadshi/express_dynamo_crud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahulGhadshi/express_dynamo_crud/issues"
+  },
+  "homepage": "https://github.com/RahulGhadshi/express_dynamo_crud#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "dynamodb-admin": "^4.6.1",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
